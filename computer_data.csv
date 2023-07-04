@@ -1,0 +1,240 @@
+Desktop/laptop,Manufacturer,Model,CPU,CPU speed (GHz),# CPU cores,Storage (GB),RAM (GB),Operating system,Selling Store,Price
+Laptop,Acer,Chromebook,Intel Celeron,1.1,2,32,4,Chrome,Walmart,199
+Laptop,Gateway,Notebook,Intel Celeron,1.1,2,64,4,Windows 10,Walmart,199
+Laptop,HP,Stream,Intel Celeron,1.1,2,64,4,Windows 10,Walmart,199
+Laptop,Lenovo,Chromebook,AMD A6,1.8,4,32,4,Chrome,Best Buy,219
+Laptop,HP,Chromebook,AMD A4,2.4,2,32,4,Chrome,Walmart,225
+Laptop,HP,Chromebook,AMD A4,2.4,2,32,4,Chrome,Walmart,225
+Laptop,Samsung,Chromebook,Intel Celeron,1.1,2,32,4,Chrome,Walmart,229
+Laptop,Asus,Laptop,Intel Celeron,1.8,4,64,4,Windows 11,Best Buy,229.99
+Laptop,Asus,Laptop,Intel Celeron,1.1,4,64,4,Windows 11,Best Buy,229.99
+Laptop,Asus,Laptop,Intel Celeron,1.1,4,64,4,Wndows 11,Best Buy,229.99
+Laptop,HP,stream,Intel Celeron,1.1,4,64,4,Windows 11,Best Buy,239.99
+Laptop,HP,Chromebook,AMD A4,2.2,2,32,4,Chrome,Amazon,249.99
+Laptop,HP,Stream,Intel Celeron,1.1,2,64,4,Windows 11,Amazon,249.99
+Laptop,HP,Laptop,Intel Celeron,1.1,4,64,4,Windows 11,Best Buy,249.99
+Laptop,HP,Laptop,Intel Celeron,1.1,4,64,4,Windows 11,Best Buy,249.99
+Laptop,HP,Laptop,Intel Celeron,1.1,4,64,4,Windows 11,Best Buy,249.99
+Laptop,HP,Chromebook,Intel Celeron,1.1,2,64,4,Chrome,Amazon,289.99
+Laptop,HP,Chromebook,Intel Celeron,1.1,4,64,4,Chrome,Amazon,289.99
+Laptop,HP,Chromebook,Intel Celeron,1.1,4,64,4,Chrome,Amazon,289.99
+Laptop,HP,Stream,Intel Celeron,1.1,2,64,4,Windows 10,Walmart,292.68
+Laptop,HP,Stream,Intel Celeron,1.1,2,32,4,Windows 10,Walmart,297.9
+Laptop,Acer,Aspire,Intel Celeron,2.8,2,128,4,Windows 11,Walmart,298.51
+Laptop,Samsung,Chromebook,Intel Celeron,1.1,4,32,4,Chrome,Best Buy,299
+Laptop,HP,Laptop,Intel Penitum,1.1,2,500,4,Windows 10,Walmart,299
+Laptop,HP,Laptop,AMD 3020e,2.6,2,64,4,Windows 10,Amazon,299.99
+Laptop,Lenovo,IdeaPad,Intel Celeron,1.1,2,64,4,Windows 11,Amazon,299.99
+Laptop,Acer,Chromebook,Intel Celeron,1.1,2,64,4,Chrome,Staples,299.99
+Laptop,HP,Laptop,Intel Penitum,1.1,4,128,4,Windows 10,Walmart,309
+Laptop,HP,Chromebook,Intel Celeron,1.1,2,32,4,Chrome,Amazon,309.99
+Laptop,HP,Chromebook,Intel Celeron,1.1,2,32,4,Chrome,Amazon,339.99
+Laptop,HP,Laptop,Intel Penitum,2.4,2,128,4,Windows 10,Walmart,362.98
+Laptop,Asus,Chromebook,Intel Celeron,2.4,4,32,4,Chrome,Best Buy,369
+Laptop,HP,Laptop,Intel Celeron,1.1,4,128,4,Windows 11,Best Buy,369.99
+Desktop,HP,All in one,Intel Celeron,2,2,128,4,Windows 11,Best Buy,379.99
+Laptop,Lenovo,Ideapad,Intel i3,3,2,128,4,Windows 10,Walmart,380
+Laptop,Lenovo,IdeaPad,Intel i3,3,2,128,4,Windows 10,Walmart,380
+Laptop,Gateway,Notebook,Intel i3,3,2,256,8,Windows 10,Walmart,399
+Desktop,Lenovo,IdeaCentre,AMD Athlon,2.3,4,256,8,Windows 11,Best Buy,399.99
+Laptop,Gateway,Slim,Intel i3,3,4,256,8,Windows 10,Walmart,399.99
+Laptop,Gateway,Notebook,Intel i3,3,2,128,4,Windows 11,Walmart,445
+Laptop,Gateway,Notebook,Intel i3,3,2,128,4,Windows 11,Walmart,445
+Laptop,HP,Chromebook,Intel Penitum,3.3,4,64,4,Chrome,Best Buy,449
+Laptop,Asus,Vivobook,Intel i3,2.4,4,256,12,Windows 11,Best Buy,449.99
+Laptop,Lenovo,Ideapad,Intel i5,2.4,4,256,12,Windows 11,Best Buy,449.99
+Laptop,Asus,Vivobook,Intel i3,3.4,4,128,4,Windows 10,Staples,449.99
+Desktop,HP,Pavilion,Intel i3,3.6,4,1000,4,Windows 10,Walmart,456
+Laptop,Acer,Aspire,Intel i5,4.2,4,256,8,Windows 11,Walmart,459
+Laptop,Acer,Aspire,Intel i5,4.2,4,256,8,Windows 11,Walmart,459
+Desktop,Acer,Aspire,Intel i3,4.4,4,256,8,Windows 10,Walmart,469
+Laptop,Asus,Vivobook,Intel i3,2.1,2,128,4,Windows 10,Walmart,469
+Laptop,Lenovo,Ideapad,Intel Penitum,2,2,256,4,Windows 11,Staples,469.99
+Laptop,Lenovo,IdeaPad,Intel i5,1,4,512,8,Windows 10,Walmart,469.99
+Desktop,HP,All in one,AMD Athlon,2.3,2,256,4,Windows 11,Amazon,474.4
+Desktop,HP,Pavilion,AMD Ryzen,4,4,256,4,Windows 11,Amazon,479.99
+Laptop,Gateway,Notebook,AMD Ryzen,2.1,2,512,8,Windows 11,Walmart,499
+Laptop,Gateway,Notebook,Intel i5,2.4,4,512,16,Windows 11,Walmart,499
+Laptop,Dell,Inspiron,Intel Celeron,3.1,2,1000,16,Windows 10,Amazon,499.99
+Desktop,HP,All in one,AMD Athlon,2.4,2,256,4,Windows 11,Amazon,499.99
+Desktop,Dell,Inspiron,Intel i3,3.7,4,1000,8,Windows 11,Best Buy,499.99
+Laptop,Lenovo,IdeaPad,Intel i3,3,2,256,8,Windows 11,Best Buy,499.99
+Desktop,HP,Slim,Intel i3,3.6,4,256,8,Windows 11,Staples,499.99
+Laptop,HP,Laptop,AMD Ryzen,1.2,4,256,8,Windows 10,Walmart,513.95
+Laptop,HP,Laptop,Intel i3,2.8,2,256,8,Windows 11,Best Buy,519.99
+Laptop,HP,Laptop,Intel i3,2.8,2,256,8,Windows 11,Best Buy,519.99
+Laptop,HP,Pavilion,Intel i5,2.4,4,256,12,Windows 11,Staples,519.99
+Laptop,Lenovo,IdeaPad,AMD Ryzen,2.1,6,256,8,Windows 10,Walmart,533.79
+Laptop,Lenovo,IdeaPad,Intel i5,1,4,256,8,Windows 10,Walmart,537.7
+Desktop,HP,Desktop,AMD Ryzen,3.8,4,512,8,Windows 11,Amazon,539.99
+Desktop,HP,All in one,AMD Athlon,2.3,2,256,8,Windows 11,Amazon,549.99
+Laptop,Asus,Vivobook,Intel i3,3.7,4,256,8,Windows 10,Best Buy,549.99
+Laptop,Asus,Vivobook,Intel i3,2.8,4,256,8,Windows 11,Best Buy,549.99
+Laptop,HP,Laptop,AMD Ryzen,2.8,6,256,12,Windows 11,Best Buy,549.99
+Desktop,Lenovo,IdeaCentre,Intel i3,3.6,4,512,8,Windows 11,Best Buy,559.99
+Desktop,Acer,Aspire,Intel i5,4.4,6,512,8,Windows 10,Walmart,569
+Laptop,HP,Laptop,AMD Ryzen,4,6,256,8,Windows 11,Amazon,569.99
+Laptop,Asus,Vivobook,Intel i3,3,2,512,8,Windows 10,Staples,569.99
+Desktop,HP,Slim,Intel i5,2.9,6,256,8,Windows 11,Staples,569.99
+Laptop,Lenovo,Ideapad,Intel i3,3,2,256,8,Windows 11,Staples,569.99
+Laptop,HP,Laptop,Intel i5,2,4,512,8,Windows 10,Walmart,579
+Desktop,HP,Pavilion,Intel i3,3.6,4,512,8,Windows 11,Amazon,579.99
+Desktop,HP,Chromebase,Intel Penitum,2.4,2,64,4,Chrome,Staples,579.99
+Laptop,HP,Pavilion,Intel i3,1.1,4,256,8,Windows 11,Best Buy,589.99
+Desktop,Lenovo,IdeaCentre,Intel Penitum,2,4,1000,8,Windows 11,Best Buy,589.99
+Desktop,HP,Chromebase,Intel Penitum,2.4,2,64,4,Windows 11,Staples,589.99
+Desktop,Acer,Apire,Intel i5,4.3,6,512,12,Windows 10,Amazon,599.5
+Laptop,Dell,Inspiron,Intel i5,1,4,256,8,Windows 11,Best Buy,599.99
+Laptop,Dell,Inspiron,Intel i5,1,4,256,8,Windows 11,Best Buy,599.99
+Laptop,Dell,Inspiron,Intel i5,1,4,256,8,Windows 11,Best Buy,599.99
+Desktop,Lenovo,IdeaCentre,Intel i5,2.9,6,512,8,Windows 11,Staples,599.99
+Desktop,Lenovo,IdeaCentre,Intel i5,2.9,6,512,8,Windows 11,Staples,599.99
+Desktop,Acer,Veriton,Intel i5,2.9,4,1000,8,Windows 10,Walmart,599.99
+Desktop,HP,All in one,AMD Athlon,2.3,2,256,8,Windows 10,Walmart,612.5
+Desktop,HP,All in one,AMD Athlon,2.3,2,256,4,Windows 10,Amazon,619.99
+Laptop,Asus,Vivobook,Intel i5,1,4,256,12,Windows 10,Staples,619.99
+Desktop,Dell,OptiPlex,Intel i3,3.7,4,256,8,Windows 10,Staples,629.49
+Desktop,HP,Gaming,AMD Ryzen,3.9,6,256,8,Windows 11,Walmart,639
+Desktop,Asus,ExpertCenter,Intel i5,4.4,6,1256,16,Windows 10,Amazon,649.99
+Desktop,HP,Pavilion,AMD Ryzen,3.9,6,512,12,Windows 11,Amazon,649.99
+Laptop,MSI,Modern,Intel i3,3,4,215,8,Windows 10,Staples,649.99
+Desktop,HP,All in one,Intel Celeron,3.2,4,256,4,Windows 11,Walmart,649.99
+Laptop,HP,All in one,Intel Celeron,3.2,4,256,4,Windows 11,Walmart,649.99
+Laptop,HP,Laptop,Intel i5,4.2,4,256,8,Windows 11,Amazon,659.99
+Desktop,HP,Pavilion,Intel i5,2.9,6,512,8,Windows 10,Best Buy,659.99
+Desktop,HP,All in one,Intel i3,3,2,256,8,Windows 11,Staples,659.99
+Desktop,HP,All in one,Intel i3,3,4,256,8,Windows 11,Staples,659.99
+Desktop,HP,All in one,AMD Ryzen,2.6,2,256,8,Windows 11,Best Buy,669.99
+Desktop,HP,Pavilion,Intel i5,2.6,4,256,12,Windows 11,Staples,669.99
+Desktop,HP,Pavilion,Intel i5,2.6,6,256,12,Windows 11,Staples,679.99
+Laptop,HP,Pavilion,Intel i5,2.4,4,256,8,Windows 11,Staples,679.99
+Laptop,Asus,Vivobook,Intel i5,2.4,4,512,8,Windows 10,Staples,689.99
+Desktop,Dell,OptiPlex,Intel i3,3.7,4,256,8,Windows 10,Staples,692.49
+Desktop,Acer,Aspire,Intel i3,3.4,2,512,8,Windows 10,Amazon,698
+Laptop,HP,Pavilion,Intel i5,4.2,8,256,8,Windows 10,Walmart,699
+Desktop,Apple,Mac mini,Apple M1,3.6,8,256,8,MacOS,Best Buy,699.99
+Laptop,Asus,Vivobook,Intel i5,2.4,4,1000,12,Windows 11,Best Buy,699.99
+Laptop,Asus,Vivobook,Intel i7,2.8,4,1256,8,Windows 11,Best Buy,699.99
+Laptop,Asus,Vivobook,Intel i7,1.8,4,1000,8,Windows 11,Best Buy,699.99
+Laptop,HP,Envy,Intel i7,2.4,4,512,8,Windows 11,Best Buy,699.99
+Laptop,HP,Laptop,Intel i5,2.8,4,256,8,Windows 11,Best Buy,699.99
+Laptop,Lenovo,Ideapad,Intel i5,3.6,4,512,8,Windows 10,Staples,699.99
+Laptop,Asus,ZenBook,AMD Ryzen,2.8,6,256,8,Windows 11,Best Buy,719.99
+Desktop,HP,All in one,Intel Celeron,3.3,2,512,16,Windows 10,Amazon,729
+Desktop,Dell,OptiPlex,Intel i3,3.7,4,500,8,Windows 10,Staples,729.49
+Laptop,Lenovo,Ideapad,Intel i5,2.4,4,512,8,Windows 11,Staples,729.99
+Laptop,Lenovo,Ideapad,Intel i5,2.4,4,256,8,Windows 11,Staples,739.99
+Desktop,Lenovo,IdeaCentre,AMD Ryzen,2.1,1,512,16,Windows 11,Amazon,749.99
+Desktop,Lenovo,IdeaCentre,AMD Ryzen,2.1,4,512,16,Windows 11,Amazon,749.99
+Laptop,Microsoft,Surface Pro,Intel i3,1.2,2,128,4,Windows 11,Amazon,749.99
+Laptop,Lenovo,Yoga,AMD Ryzen,2.1,6,256,8,Windows 11,Best Buy,749.99
+Laptop,Lenovo,Yoga,AMD Ryzen,2.1,6,256,8,Windows 11,Best Buy,749.99
+Desktop,Asus,ExpertCenter,Intel i5,2.6,6,512,8,Windows 11,Staples,749.99
+Desktop,Asus,ExpertCenter,Intel i5,2.6,6,512,8,Windows 11,Staples,749.99
+Laptop,Asus,Vivobook,AMD Ryzen,1.8,4,1000,8,Windows 10,Staples,749.99
+Desktop,HP,All in one,Intel i3,2.4,2,512,8,Windows 11,Best Buy,759.99
+Desktop,Lenovo,IdeaCentre,Intel i3,2.4,2,256,8,Windows 11,Best Buy,759.99
+Desktop,Dell,OptiPlex,Intel i5,2.3,6,128,8,Windows 10,Staples,767.99
+Laptop,HP,Laptop,Intel i7,4.7,4,512,8,Windows 10,Walmart,789
+Desktop,HP,Envy,Intel i5,2.9,6,1000,12,Windows 11,Best Buy,789.99
+Desktop,Dell,OptiPlex,Intel i5,3.2,6,256,8,Windows 10,Staples,793.99
+Desktop,HP,Envy,Intel i5,2.5,6,1000,12,Windows 11,Best Buy,799.99
+Laptop,Acer,Swift,Intel i5,2.4,4,512,8,Windows 10,Walmart,799.99
+Desktop,Cyberpower,Xtreme,Intel i3,3.7,4,240,8,Windows 10,Staples,806.31
+Desktop,HP,Pavilion,Intel i7,2.5,8,256,12,Windows 11,Staples,819.99
+Laptop,HP,Pavilion,Intel i7,2.8,4,256,8,Windows 11,Staples,819.99
+Laptop,HP,Pavilion,Intel i7,2.8,4,256,8,Windows 10,Staples,819.99
+Laptop,Lenovo,Gaming,Intel i5,2.4,4,512,8,Windows 10,Walmart,819.99
+Desktop,Dell,OptiPlex,Intel i5,3.2,6,256,16,Windows 10,Staples,829.49
+Laptop,HP,Laptop,Intel i7,2.8,4,512,16,Windows 11,Best Buy,829.99
+Laptop,HP,Pavilion,Intel i5,2.8,4,512,8,Windows 11,Best Buy,829.99
+Laptop,HP,Laptop,Intel i7,2.8,4,512,16,Windows 11,Best Buy,829.99
+Laptop,HP,Pavilion,Intel i5,2.8,4,512,8,Windows 11,Best Buy,829.99
+Laptop,Asus,Vivobook,Intel i5,2.4,4,512,8,Windows 10,Staples,829.99
+Desktop,HP,Pavilion,Intel i7,2.5,8,256,12,Windows 11,Staples,829.99
+Desktop,HP,All in one,Intel i5,2.4,4,256,8,Windows 11,Staples,829.99
+Desktop,Lenovo,IdeaCentre,Intel i7,2.9,8,256,12,Windows 11,Staples,829.99
+Desktop,Lenovo,IdeaCentre,Intel i7,2.9,8,256,12,Windows 11,Staples,829.99
+Laptop,Lenovo,Ideapad,Intel i7,2.8,4,256,8,Windows 11,Staples,829.99
+Laptop,Lenovo,Ideapad,Intel i5,2.4,4,512,12,Windows 11,Staples,829.99
+Laptop,Dell,Inspiron,Intel i5,1,4,1000,16,Windows 10,Amazon,839
+Laptop,Asus,TUF,Intel i5,2.9,6,512,8,Windows 10,Walmart,849
+Laptop,Lenovo,Ideapad,Intel i5,3.1,4,256,8,Windows 11,Best Buy,849.99
+Laptop,Lenovo,Yoga,Intel i5,2.4,4,256,8,Windows 11,Best Buy,849.99
+Desktop,HP,Envy,Intel i7,4.8,8,1000,16,Windows 10,Amazon,859.99
+Desktop,HP,Pavilion,AMD Ryzen,3.8,8,1000,16,Windows 11,Best Buy,859.99
+Desktop,HP,All in one,Intel i5,2.4,4,256,8,Windows 11,Staples,859.99
+Desktop,Apple,Mac Mini,Apple M1,3.6,8,512,8,MacOS,Amazon,869.99
+Desktop,Dell,OptiPlex,Intel i5,3.2,6,256,16,Windows 10,Staples,870.99
+Desktop,Acer,Predator,Intel i5,4.4,4,512,8,Windows 10,Walmart,879
+Desktop,HP,All in one,Intel i5,2.4,4,256,8,Windows 11,Staples,879.99
+Laptop,Lenovo,Legion,AMD Ryzen,3,6,1256,8,Windows 10,Walmart,898.99
+Laptop,Acer,Nitro,Intel i5,4.5,6,512,16,Windows 11,Walmart,899
+Laptop,HP,Envy,Intel i5,4.2,8,512,8,Windows 10,Walmart,929
+Laptop,HP,Pavilion,Intel i7,2.8,4,512,12,Windows 11,Staples,929.99
+Laptop,Lenovo,ThinkPad,intel i5,2.4,4,256,8,Windows 10,Staples,929.99
+Laptop,Samsung,Galaxy Book,Intel i7,2.8,4,256,16,Windows 10,Staples,939.99
+Laptop,Acer,Nitro,Intel i5,2.4,4,512,16,Windows 10,Walmart,948
+Laptop,Lenovo,Yoga,AMD Ryzen,1.8,8,512,16,Windows 11,Best Buy,949.9
+Desktop,iBuyPower,Slate,Intel i5,2.6,6,1480,8,Windows 11,Best Buy,949.99
+Laptop,Lenovo,Yoga,AMD Ryzen,1.8,8,512,16,Windows 11,Best Buy,949.99
+Desktop,HP,All in one,AMD Ryzen,1.8,8,1256,16,Windows 11,Amazon,953.87
+Desktop,HP,All in one,Intel i5,2.4,4,512,16,Windows 11,Staples,959.99
+Desktop,HP,Envy,Intel i7,2.1,12,1000,16,Windows 11,Best Buy,969.99
+Desktop,HP,All in one,Intel i5,2.4,4,512,16,Windows 11,Staples,969.99
+Desktop,Acer,Aspire,Intel i5,3.6,4,512,12,Windows 10,Amazon,995
+Desktop,Dell,Inspiron,Intel i7,4.7,4,1000,12,Windows 11,Amazon,999.99
+Laptop,Apple,MacBook Air,Apple M1,3.2,8,256,8,MacOS,Best Buy,999.99
+Desktop,Cyberpower,Xtreme,Intel i5,2.6,6,2500,8,Windows 11,Amazon,1004.99
+Laptop,Dell,Inspiron,Intel i7,2.8,4,512,16,Windows 11,Best Buy,1049.99
+Desktop,HP,Pavilion,Intel i5,2,6,1000,12,Windows 11,Best Buy,1049.99
+Laptop,HP,Envy,Intel i7,2.4,4,512,16,Windows 11,Best Buy,1079.99
+Laptop,HP,Envy,Intel i7,2.8,4,512,16,Windows 11,Best Buy,1079.99
+Laptop,MSI,Bravo,AMD Ryzen,3.2,4,512,16,Windows 10,Walmart,1099
+Desktop,Dell,OptiPlex,Intel i5,2.3,6,128,8,Windows 10,Staples,1142.49
+Desktop,Dell,OptiPlex,Intel i7,2.9,8,1000,16,Windows 10,Staples,1190.99
+Laptop,Apple,MacBook Air,Apple M1,3.2,8,512,8,MacOS,Amazon,1199
+Laptop,Asus,Gaming,AMD Ryzen,4.2,8,512,16,Windows 11,Walmart,1199
+Laptop,Asus,ZenBook,Intel i7,2.8,4,512,16,Windows 11,Best Buy,1199.99
+Laptop,Asus,Dash,Intel i7,2.8,4,512,16,Windows 11,Best Buy,1199.99
+Desktop,Dell,Inspiron,Intel i7,2.4,4,512,16,Windows 11,Best Buy,1219.99
+Laptop,HP,Envy,Intel i7,2.4,4,512,12,Windows 11,Best Buy,1279.99
+Desktop,Asus,ROG,AMD Ryzen,3.8,4,1256,8,Windows 10,Walmart,1299
+Laptop,Apple,MacBook Pro,Apple M1,3.2,8,256,8,MacOS,Best Buy,1299.99
+Laptop,Microsoft,Surface Pro,Intel i5,2.8,4,256,8,Windows 10,Amazon,1329.98
+Laptop,Gateway,Creator,Intel i7,4.6,4,1000,16,Windows 11,Walmart,1399
+Laptop,Samsung,Galaxy Book Pro,Intel i7,2.8,4,512,16,Windows 11,Best Buy,1399.99
+Desktop,HP,Pavilion,Intel i7,2,8,1000,16,Windows 11,Best Buy,1409.99
+Desktop,Lenovo,ThinkStation,Intel i7,2.4,4,512,16,Windows 10,Best Buy,1409.99
+Desktop,MSI,Codex,Intel i5,2.6,6,1000,16,Windows 10,Staples,1446.99
+Laptop,Apple,MacBook Pro,Apple M1,3.2,8,512,8,MacOS,Amazon,1449.99
+Desktop,iBuyPower,Slate,Intel i7,2.5,8,480,16,Windows 10,Best Buy,1549.99
+Desktop,Intel,NUC,Intel i7,4.7,4,512,16,Windows 10,Amazon,1559.99
+Laptop,Samsung,Galaxy Book2,Intel i7,4.7,4,1000,16,Windows 11,Best Buy,1599.99
+Laptop,Acer,Predator,Intel i7,4.6,8,1512,16,Windows 10,Walmart,1599.99
+Desktop,Apple,iMac,Apple M1,3.6,8,512,8,MacOS,Amazon,1649.99
+Desktop,Apple,iMac,Apple M1,3.6,8,512,8,MacOS,Amazon,1649.99
+Laptop,Acer,Predator,Intel i7,4.6,8,1000,16,Windows 10,Walmart,1710
+Laptop,Lenovo,Yoga,Intel i7,3,4,512,16,Windows 11,Best Buy,1749.99
+Desktop,Lenovo,ThinkStation,Intel i9,2.5,8,1000,32,Windows 10,Staples,1767.49
+Desktop,Lenovo,ThinkStation,Intel i9,2.5,8,1000,32,Windows 10,Staples,1827.49
+Laptop,Asus,ROG,Intel i9,2.4,4,1000,16,Windows 11,Best Buy,1849.99
+Desktop,Dell,Inspiron,Intel i7,2.8,4,2000,64,Windows 10,Amazon,1889
+Desktop,Lenovo,ThinkStation,Intel i9,3.7,10,1000,32,Windows 10,Staples,1897.49
+Desktop,Lenovo,ThinkStation,Intel i9,2.5,8,1000,32,Windows 10,Staples,1927.49
+Laptop,HP,Spectre,Intel i7,2.8,4,1000,16,Windows 11,Best Buy,2029.99
+Desktop,Asus,ROG,AMD Ryzen,3.8,8,1000,16,Windows 10,Staples,2093.41
+Desktop,Asus,ROG,Intel i7,2.4,4,2512,16,Windows 11,Best Buy,2099
+Desktop,MSI,Aegis,Intel i7,3.6,12,1000,16,Windows 11,Staples,2109.99
+Desktop,MSI,Aegis,Intel i7,2.1,12,1000,32,Windows 11,Staples,2149
+Laptop,Asus,Zephyrus,AMD Ryzen,2.8,8,1000,16,Windows 10,Best Buy,2199.99
+Laptop,Microsoft,Surface,Intel i7,3,4,1000,32,Windows 10,Staples,2299.99
+Laptop,Dell,Latitude,Intel i7,3,4,256,16,Windows 10,Staples,2418.99
+Laptop,Apple,MacBook Pro,Intel i9,2.3,8,1000,16,MacOS,Amazon,2799
+Laptop,Microsoft,Surface Book,Intel i7,1.3,4,512,32,Windows 10,Staples,2799.99
+Laptop,Lenovo,ThinkPad,Intel i7,2.5,8,1000,32,Windows 10,Staples,2902.49
+Laptop,MSI,Stealth,Intel i7,2.3,8,1000,32,Windows 10,Staples,3099.99
+Laptop,Microsoft,Surface Book,Intel i7,1.3,4,2000,32,Windows 10,Staples,3399.99
+Laptop,Acer,Nitro,AMD Ryzen,3.2,8,1000,16,Windows 10,Walmart,3511.2
+Desktop,MSI,Aegis,Intel i9,3.2,6,4000,32,Windows 11,Staples,4399
+Desktop,Lenovo,ThinkStation,AMD Ryzen,3.9,16,1000,64,Windows 10,Staples,9224.49
